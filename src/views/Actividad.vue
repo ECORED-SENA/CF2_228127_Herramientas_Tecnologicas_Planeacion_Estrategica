@@ -20,6 +20,24 @@
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
+
+    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+        .tarjeta.h-100.d-flex.align-items-center.p-4
+          figure
+            img(src="@/assets/template/arrastrar.svg")
+      .col-12.col-md-8.col-lg-9
+        .titulo-segundo
+          h2 Tabulación de datos recolectados
+        p.mb-4 Comprender la mecánica de la tabulación de la información obtenida a través de las metodologías estudiadas.
+        .tarjeta.actividad.p-3
+          .row.justify-content-around.align-items-center            
+            .col-sm.mb-3.mb-sm-0
+              p.fw-bold.mb-0 Arrastrar y soltar
+            .col-auto
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+                span Realizar
+                i.fas.fa-puzzle-piece
                 
 </template>
 

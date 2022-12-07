@@ -26,12 +26,12 @@
                   .h5.text-primario.mb-0 Cuando se otorga un contexto a los datos se transforman en información y se revisten de una función.
         .col-lg-10
           p Para comprender mejor estos conceptos vea el siguiente ejemplo:
-          p La información se puede presentar de multitud de formas, obedeciendo a distintos criterios que toman mayor importancia según la disciplina en la que sean utilizados. En el campo empresarial algunas de las clasificaciones más utilizadas son:
           .row.justify-content-center.align-items-center.BG02.mb-4(data-aos="flip-up")
             .col-lg-8.order-lg-1.order-2.p-4
               p.mb-0 Si tengo una lista de valores que no obedece a una escala ni presenta un orden determinado carece de significado; pero si conozco que esta lista corresponde a las unidades vendidas de cada uno de los productos que ofrece la empresa, trascienden de datos a información histórica o presente del volumen de ventas de una organización. Es así como obtienen relevancia y utilidad, pues permitirán medir la gestión comercial, el posicionamiento de la empresa o la evolución respecto a periodos anteriores.
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema1/img02.svg")
+          p La información se puede presentar de multitud de formas, obedeciendo a distintos criterios que toman mayor importancia según la disciplina en la que sean utilizados. En el campo empresarial algunas de las clasificaciones más utilizadas son:
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       AcordionA.mb-5(tipo="a" clase-tarjeta="BGIMG01")
@@ -122,7 +122,7 @@
 
     p Según el propósito y el área que se desee auditar o evaluar en una organización, el tipo de contenido con el que se puede encontrar el encargado del trabajo puede variar, por ejemplo, vea qué podría pasar en la evaluación de gestión del área financiera:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta--container.row
           .col-md.BGR04A.p-5(data-aos="fade-right")
@@ -156,7 +156,7 @@
         .h5.text-primario.text-center(data-aos="fade-right") Entonces, ¿cuál puede ser una situación práctica que se genere frecuentemente en estas condiciones?
         .hr-primario
 
-    p Una situación práctica que se genera con frecuencia es la recolección de información respecto a la calidad o efectividad de un producto o servicio vendido a los clientes de la organización. Un formulario que contenga preguntas concretas y rápidas de responder puede resultar una buena forma de realizar el primer acercamiento a la percepción general de la demanda respecto a una referencia en particular.
+    p.mb-5 Una situación práctica que se genera con frecuencia es la recolección de información respecto a la calidad o efectividad de un producto o servicio vendido a los clientes de la organización. Un formulario que contenga preguntas concretas y rápidas de responder puede resultar una buena forma de realizar el primer acercamiento a la percepción general de la demanda respecto a una referencia en particular.
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4
@@ -165,7 +165,7 @@
     
     p Si el objetivo detrás del estudio es la implementación de estrategias en un proceso interno de mejora, las exigencias serán determinadas por la misma organización, lo que ofrece flexibilidad a la hora de elegir metodologías de recolección y análisis de los datos. 
 
-    .BG04.mb-4(data-aos="flip-up")
+    .BG04.mb-5(data-aos="flip-up")
       .row.justify-content-center
         .col-lg-4.col-8.py-4
           img(src='@/assets/curso/tema1/img17.svg')
@@ -200,7 +200,7 @@
             .col-lg-8.p-4
               .row.mb-4
                 .col-auto.BG02.p-2
-                  .h5.text-primario.mb-0 Es muy importante que tenga en cuenta que
+                  .h5.text-primario.mb-0 Es muy importante que tenga en cuenta que:
               p.text-white Si las metodologías de recolección de información son muy complejas o requieren mucho tiempo y personal, su costo se irá incrementando de forma proporcional. Es por ello que durante la fase de planeación es necesario contar con un presupuesto detallado que contemple los recursos que serán necesarios. A partir de ello, se podrán programar medidas más o menos costosas. 
               p.text-white.mb-0 Así, si se busca realizar acercamientos a trabajadores en las distintas sedes de una compañía que opera a nivel nacional, pueden evaluarse alternativas como videollamadas o comunicación diferida, que reduzcan los costos de desplazamiento, así como el tiempo que este tipo de labores involucra.
 
@@ -490,7 +490,7 @@
 
     figure.mb-4(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/vmBBIyAk6yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p La encuesta es una de las metodologías de recolección de información de mayor facilidad de uso y practicidad en la actualidad; su aplicación tiene relevancia tanto en ambientes productivos y organizacionales, como en estudios académicos, sociales o económicos; lo anterior sustentado en su viabilidad para abordar poblaciones de tamaño considerable.
     p.mb-5 Para lograr consolidar las respuestas obtenidas resulta especialmente recomendable hacer uso de sistemas de consolidación de información como la elaboración de tablas donde se presenten los individuos en las filas y las respuestas en las columnas. Para que este trabajo sea posible es importante que las preguntas sean cerradas y respondan a un número, carácter o rango. 
@@ -538,7 +538,7 @@
     p.mb-5 Si la consulta en concreto es sobre la edad promedio de los clientes, los intervalos irregulares, según los sistemas demográficos, podrían ser más útiles. A continuación, se presenta una tabla en la que se resumen los resultados de una encuesta en la que se consultó la edad a cien personas:
 
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Tabla 2
           span Tabulación de datos cuantitativos
@@ -567,7 +567,9 @@
                 td.text-center.text-bold Total de encuestados
                 td.text-center 100
                 td.text-center 100 %
-    
+      .col-lg-10
+        p.mb-4 Como sistema de comprobación, la suma de las frecuencias absolutas debe ser equivalente al total de las personas encuestadas; de resultar menor puede deberse a que no se incluyó la respuesta de alguien en ella. La relativa, por su parte, al sumarse debe ser equivalente al 100%.
+
     separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Análisis de contenido
@@ -593,7 +595,7 @@
               img.img01(src="@/assets/curso/tema1/img47.svg")
       
       p Este sistema permite dar continuidad a procesos o sistemas de evaluación que fueron iniciados en el pasado, así se consigue progresar en términos de conocimiento o buenas prácticas. Situación muy común en ambientes productivos, por ejemplo, cuando se busca mejorar una receta utilizada en la elaboración de algún bien. Así es como las marcas toman una fórmula base y a través de modificaciones ofrecen productos diferentes. Este es el caso de empresas como Coca-Cola con su versión sin azúcar, o con sabor a café, su base sigue siendo la misma: pero, con ligeros ajustes que diversifican su oferta. 
-      p Este sistema también facilita el análisis comparativo, que es de vital importancia en las organizaciones, puesto que permite efectuar dos evaluaciones de un mismo proceso o actividad, separadas por una ventana de tiempo y medir así su evolución. Por otra parte, se pueden hacer análisis con otras empresas para determinar si las estrategias utilizadas son más o menos productivas que las de la competencia, esta práctica cuenta con gran aceptación a nivel empresarial y es conocida como benchmarking.
+      p Este sistema también facilita el análisis comparativo, que es de vital importancia en las organizaciones, puesto que permite efectuar dos evaluaciones de un mismo proceso o actividad, separadas por una ventana de tiempo y medir así su evolución. Por otra parte, se pueden hacer análisis con otras empresas para determinar si las estrategias utilizadas son más o menos productivas que las de la competencia, esta práctica cuenta con gran aceptación a nivel empresarial y es conocida como #[em benchmarking].
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.BG03.p-4

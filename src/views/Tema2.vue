@@ -84,7 +84,7 @@
     
     figure.mb-4(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/npTMvq02U0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p Existen otros sistemas de priorización utilizados; pero, su eje fundamental opera bajo el mismo sistema, es decir, determinar qué es lo más importante a través de una serie de criterios que contemplan tiempo, recursos, efectividad y esfuerzo. Vea esta breve reseña de algunos de ellos :
 

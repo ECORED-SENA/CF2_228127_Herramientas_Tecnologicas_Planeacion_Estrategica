@@ -40,10 +40,10 @@
             | Solicitud de información como los límites de almacenamiento en la nube.
           li
             <i class="fas fa-circle" style="color:#F3AB1D; font-size: x-small"></i>
-            | 	Solicitud de acceso a un documento, servicio, plataforma o red.
+            | Solicitud de acceso a un documento, servicio, plataforma o red.
           li
             <i class="fas fa-circle" style="color:#F3AB1D; font-size: x-small"></i>
-            | 	Solicitud de un recurso, en los casos cuando se necesitan periféricos hardware como una PC, laptop, teclado o también puede ser #[em software].
+            p.mb-0 Solicitud de un recurso, en los casos cuando se necesitan periféricos #[em hardware] como una PC, #[em laptop], teclado o también puede ser #[em software].
         
         .BG04.p-4.mb-4
           .bloque-texto-c
