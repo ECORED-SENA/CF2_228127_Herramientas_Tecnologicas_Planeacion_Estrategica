@@ -149,7 +149,7 @@ export default {
         'Centro de Escritura Javeriano. (2020). Normas APA, séptima edición. Pontificia Universidad Javeriana, seccional Cali.',
       tipo: 'Adaptación/guía',
       link:
-        'https://www2.javerianacali.edu.co/sites/ujc/files/manual_de_normas_apa_7a_completo.pdf',
+        'https://www.javerianacali.edu.co/centro-escritura/recursos/manual-apa-7a-edicion',
     },
   ],
   glosario: [
